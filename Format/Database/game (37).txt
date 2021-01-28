@@ -1,0 +1,18 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.12.27"]
+[Round "-"]
+[Black "evacoregen5"]
+[White "gomobot"]
+[Result "0-1"]
+[Time "04:21:52"]
+[TimeControl "2700"]
+[GameType "61,15"]
+[BlackElo "2526"]
+[WhiteElo "1772"]
+
+1. a8 a10 2. b9 c6 3. b7 -- 4. white -- 5. e9 e10 6. c8 d10 7. f10 d8 8. f9 b8
+9. b10 g9 10. f7 f8 11. h10 g11 12. d9 c10 13. f11 e5 14. i10 e12 15. d11 g10
+16. g8 h9 17. c5 c7 18. d6 g6 19. d4 b6 20. b5 d3 21. j9 g5 22. d7 e8 23. i6 e7
+24. h7 j5 25. f12 f13 26. h4 c9 27. o11 f6 0-1
+

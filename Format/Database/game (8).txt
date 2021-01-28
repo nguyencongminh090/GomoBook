@@ -1,0 +1,18 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.11.21"]
+[Round "-"]
+[Black "cpm6964g"]
+[White "nsw848g"]
+[Result "1-0"]
+[Time "17:42:31"]
+[TimeControl "300"]
+[GameType "61,15"]
+[BlackElo "1494"]
+[WhiteElo "1260"]
+
+1. n4 m2 2. k2 a15 3. b15 -- 4. black k5 5. l5 l6 6. j4 j6 7. i7 k7 8. k6 j8 9.
+i9 l8 10. m9 i8 11. k8 j9 12. j7 l9 13. k10 h7 14. i5 l4 15. i4 i6 16. g6 j5
+17. g8 m3 18. n2 m4 19. m5 g7 20. h4 g4 21. i2 h5 22. j2 h2 23. i3 i1 24. g5 f6
+25. k1 1-0
+

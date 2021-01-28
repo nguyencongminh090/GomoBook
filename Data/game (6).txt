@@ -1,0 +1,16 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.12.01"]
+[Round "-"]
+[Black "boneslash"]
+[White "gomobot"]
+[Result "0-1"]
+[Time "15:46:55"]
+[TimeControl "2700"]
+[GameType "61,15"]
+[BlackElo "1969"]
+[WhiteElo "1677"]
+
+1. l3 m8 2. h6 l13 3. i9 -- 4. black j11 5. i6 k10 6. l9 i10 7. h9 k12 8. m14
+j10 9. h10 j9 10. h8 h7 11. j8 j13 12. j12 m10 13. l10 l11 14. n9 i14 0-1
+

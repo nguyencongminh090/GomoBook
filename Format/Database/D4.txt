@@ -1,0 +1,18 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.08.13"]
+[Round "-"]
+[Black "dcc7421g"]
+[White "dnes"]
+[Result "1-0"]
+[Time "09:08:38"]
+[TimeControl "300"]
+[GameType "61,15"]
+[BlackElo "1557"]
+[WhiteElo "1520"]
+
+1. o8 a8 2. o9 white 3. -- k8 4. k10 n10 5. j8 l9 6. j7 j9 7. l7 i7 8. i9 j6 9.
+k7 l6 10. h10 g11 11. h8 i10 12. f11 g8 13. h9 h11 14. g12 g10 15. g7 f6 16. e9
+f8 17. e10 d9 18. i12 f9 19. f7 e8 20. d7 d8 21. c8 e7 22. g5 d6 23. c5 e6 24.
+g6 i6 25. k6 j5 26. h7 h6 27. k11 j10 28. n9 o10 29. k12 k13 30. j12 h12 31.
+l11 m10 32. i13 1-0

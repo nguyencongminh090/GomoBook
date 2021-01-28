@@ -1,0 +1,19 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.12.29"]
+[Round "-"]
+[Black "bequay"]
+[White "phamhoainam"]
+[Result "0-1"]
+[Time "14:15:47"]
+[TimeControl "900"]
+[GameType "61,15"]
+[BlackElo "1557"]
+[WhiteElo "1546"]
+
+1. l14 m12 2. m9 black 3. k11 k10 4. j10 j11 5. i12 i9 6. l12 k12 7. l13 j13 8.
+m11 m10 9. l11 n11 10. l9 l10 11. h9 n10 12. o10 k7 13. l8 m7 14. n7 i7 15. l7
+l6 16. j8 k6 17. k8 i8 18. i6 m6 19. m8 n8 20. j7 h5 21. j6 j9 22. j4 j5 23. k5
+f6 24. f5 e7 25. h7 f9 26. f10 e8 27. g10 h8 28. g7 e9 29. i10 h10 30. e6 f7
+31. g6 f8 32. g8 g9 33. d6 i11 0-1
+

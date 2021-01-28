@@ -1,0 +1,19 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.12.27"]
+[Round "-"]
+[Black "tbt4204g"]
+[White "pointbaby2010"]
+[Result "0-1"]
+[Time "13:25:17"]
+[TimeControl "420"]
+[GameType "61,15"]
+[BlackElo "1200"]
+[WhiteElo "1529"]
+
+1. o8 o7 2. l3 black 3. k6 l5 4. l4 k4 5. j5 m6 6. n7 j3 7. i2 l7 8. k3 m5 9.
+n5 j6 10. h6 i5 11. l8 k9 12. j9 h8 13. i7 g5 14. f5 g4 15. g6 f6 16. h4 h5 17.
+f3 e4 18. e5 i8 19. f8 e9 20. g11 h11 21. h10 g9 22. f9 f12 23. g8 e10 24. f7
+g7 25. f4 g3 26. c7 j10 27. i9 e6 28. d7 e8 29. e7 b7 30. d6 b8 31. c5 b4 32.
+f2 f1 33. d5 b5 34. b6 e11 35. e12 f10 0-1
+

@@ -1,0 +1,17 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.05.11"]
+[Round "-"]
+[Black "kwonto300"]
+[White "vunglamebay"]
+[Result "1-0"]
+[Time "08:53:31"]
+[TimeControl "60"]
+[GameType "61,15"]
+[BlackElo "1656"]
+[WhiteElo "1420"]
+
+1. m3 n4 2. n7 black 3. k6 k7 4. l7 j5 5. j7 l5 6. m6 j6 7. i5 k8 8. i7 i6 9.
+h7 j4 10. g7 f7 11. j3 m7 12. l6 l8 13. n6 o6 14. m8 k10 15. k9 l10 16. m9 l3
+17. n9 o10 18. l9 j9 19. o9 1-0
+

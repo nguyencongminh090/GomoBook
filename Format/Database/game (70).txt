@@ -1,0 +1,16 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2021.01.03"]
+[Round "-"]
+[Black "chemcar0"]
+[White "kkn530g"]
+[Result "1-0"]
+[Time "02:12:08"]
+[TimeControl "600"]
+[GameType "61,15"]
+[BlackElo "1875"]
+[WhiteElo "1566"]
+
+1. h8 d4 2. i13 black 3. f4 g9 4. i7 h9 5. g4 h4 6. g7 j8 7. h7 f7 8. e4 c4 9.
+g6 i8 10. g5 g8 11. g3 1-0
+

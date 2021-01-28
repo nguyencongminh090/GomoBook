@@ -1,0 +1,19 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2021.01.03"]
+[Round "-"]
+[Black "chemcar0"]
+[White "kkn530g"]
+[Result "0-1"]
+[Time "02:41:59"]
+[TimeControl "600"]
+[GameType "61,15"]
+[BlackElo "1875"]
+[WhiteElo "1566"]
+
+1. h4 g12 2. c3 white 3. -- d9 4. f6 e7 5. d4 e5 6. f4 f5 7. e6 c5 8. e4 g4 9.
+b4 c4 10. d5 c8 11. c6 e10 12. f11 b7 13. a6 d6 14. f3 g2 15. e3 d3 16. g5 h6
+17. d2 c1 18. i3 j2 19. i5 h3 20. e1 a5 21. i2 i4 22. g3 f2 23. j6 k7 24. j5 b8
+25. c7 f8 26. g9 e8 27. d8 e9 28. e11 b9 29. k5 h5 30. l5 m5 31. h8 i7 32. m12
+b10 33. k14 b11 0-1
+

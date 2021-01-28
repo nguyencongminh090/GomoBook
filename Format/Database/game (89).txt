@@ -1,0 +1,17 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.12.13"]
+[Round "-"]
+[Black "swapgame"]
+[White "musangking"]
+[Result "1-0"]
+[Time "04:14:24"]
+[TimeControl "120"]
+[GameType "61,15"]
+[BlackElo "1200"]
+[WhiteElo "1477"]
+
+1. o8 a8 2. o9 white 3. -- d10 4. l9 k9 5. k10 l10 6. m11 m9 7. m8 n7 8. k8 k11
+9. j12 j11 10. l8 n8 11. o7 o10 12. j7 i6 13. k6 i8 14. l5 l7 15. k5 n5 16. n6
+i5 17. k4 k7 18. k3 k2 19. o6 o5 20. m6 l6 21. m5 l4 22. m4 m7 23. n3 1-0
+

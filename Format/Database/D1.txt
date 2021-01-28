@@ -1,0 +1,15 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.08.10"]
+[Round "-"]
+[Black "mbn6724g"]
+[White "vunglamebay"]
+[Result "0-1"]
+[Time "10:28:31"]
+[TimeControl "420"]
+[GameType "61,15"]
+[BlackElo "1258"]
+[WhiteElo "1588"]
+
+1. h8 h6 2. e6 black 3. i7 e5 4. g7 e8 5. e9 f8 6. d8 c5 7. g9 d5 8. f5 g8 9.
+i8 f7 10. h9 c4 0-1

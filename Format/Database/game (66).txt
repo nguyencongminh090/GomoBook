@@ -1,0 +1,18 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2021.01.01"]
+[Round "-"]
+[Black "palacsinta"]
+[White "hoalacocay"]
+[Result "0-1"]
+[Time "15:40:26"]
+[TimeControl "120"]
+[GameType "61,15"]
+[BlackElo "1200"]
+[WhiteElo "1491"]
+
+1. e2 f3 2. d4 black 3. e4 d5 4. d6 f6 5. e5 e7 6. g5 g3 7. h6 h7 8. i7 j8 9.
+i5 h5 10. k5 j6 11. j4 k3 12. i3 h2 13. i4 i6 14. j5 l6 15. h4 k4 16. k6 l7 17.
+k8 k7 18. j2 k1 19. j3 j1 20. m5 l5 21. l8 f9 22. g8 f8 23. f7 h10 24. i9 e10
+25. e9 g10 26. i10 f10 27. d10 f11 28. f12 h9 29. h11 i8 30. e12 j7 0-1
+

@@ -1,0 +1,16 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.10.03"]
+[Round "-"]
+[Black "lanlong1"]
+[White "swapgame"]
+[Result "0-1"]
+[Time "10:04:39"]
+[TimeControl "900"]
+[GameType "60,15"]
+[BlackElo "1576"]
+[WhiteElo "1200"]
+
+1. h8 g8 2. i7 g9 3. g7 i9 4. h7 j7 5. h6 h9 6. f9 g10 7. i8 j9 8. k9 j8 9. j10
+g11 10. g12 h10 11. f7 k7 0-1
+

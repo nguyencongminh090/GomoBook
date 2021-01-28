@@ -1,0 +1,18 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2021.01.08"]
+[Round "-"]
+[Black "uey7931"]
+[White "bomthoidai12"]
+[Result "1-0"]
+[Time "07:14:20"]
+[TimeControl "420"]
+[GameType "61,15"]
+[BlackElo "1495"]
+[WhiteElo "1742"]
+
+1. h2 j2 2. k2 black 3. h5 i5 4. j6 i6 5. i7 k5 6. j4 k4 7. j5 j3 8. k3 j7 9.
+k8 h8 10. f9 f8 11. e8 h9 12. g10 h11 13. h10 i10 14. g8 g7 15. d10 e10 16. d7
+c6 17. d9 d8 18. g11 i9 19. j10 g12 20. f13 g3 21. f6 f4 22. e5 g4 23. f7 g6
+24. g5 i3 25. d5 f5 26. e6 c4 27. e7 e4 28. e9 1-0
+

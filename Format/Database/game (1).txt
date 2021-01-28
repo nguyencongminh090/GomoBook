@@ -1,0 +1,16 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.09.26"]
+[Round "-"]
+[Black "ashot777"]
+[White "vunglamebay"]
+[Result "0-1"]
+[Time "09:57:12"]
+[TimeControl "60"]
+[GameType "61,15"]
+[BlackElo "1810"]
+[WhiteElo "1588"]
+
+1. f3 g3 2. h3 black 3. h5 i5 4. g6 f6 5. f7 i4 6. i6 g4 7. f5 h4 8. f4 i3 9.
+g5 j4 10. k4 h2 11. k5 g2 12. n15 i2 13. o14 i1 0-1
+

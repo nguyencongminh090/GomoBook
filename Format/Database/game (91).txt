@@ -1,0 +1,16 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.12.12"]
+[Round "-"]
+[Black "boneslash"]
+[White "muahoalekima"]
+[Result "0-1"]
+[Time "18:35:41"]
+[TimeControl "420"]
+[GameType "61,15"]
+[BlackElo "1879"]
+[WhiteElo "1379"]
+
+1. j5 k4 2. n4 j8 3. k8 -- 4. white -- 5. i7 k6 6. k9 h6 7. l10 m11 8. l7 i6 9.
+j6 j7 10. l9 l8 11. m9 j9 12. k5 h8 13. h7 g7 14. n9 o9 15. f6 h5 0-1
+

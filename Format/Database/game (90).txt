@@ -1,0 +1,18 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.12.13"]
+[Round "-"]
+[Black "swapgame"]
+[White "boneslash"]
+[Result "1-0"]
+[Time "02:01:54"]
+[TimeControl "420"]
+[GameType "61,15"]
+[BlackElo "1200"]
+[WhiteElo "1879"]
+
+1. o8 o7 2. l3 white 3. -- k5 4. j6 k4 5. k3 j3 6. i4 l6 7. l5 k7 8. k8 m5 9.
+n4 m7 10. n8 g5 11. h6 m8 12. m6 l7 13. n7 i6 14. j7 j4 15. i3 i8 16. i9 j9 17.
+j5 j10 18. m4 l8 19. n5 n6 20. k9 k2 21. l10 h7 22. g6 h10 23. k11 j12 24. j8
+i7 25. n10 j11 26. j13 m11 27. n11 n9 28. k10 k12 29. m10 o10 30. l9 1-0
+

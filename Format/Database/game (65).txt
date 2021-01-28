@@ -1,0 +1,20 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.12.31"]
+[Round "-"]
+[Black "nothing2fear"]
+[White "bomthoidai12"]
+[Result "0-1"]
+[Time "12:33:26"]
+[TimeControl "180"]
+[GameType "61,15"]
+[BlackElo "1585"]
+[WhiteElo "1742"]
+
+1. g14 i14 2. j14 black 3. i11 i12 4. j11 k11 5. k12 j10 6. g11 i10 7. h10 i9
+8. h11 f11 9. h8 h9 10. g9 f8 11. f10 e11 12. h13 i13 13. i7 j6 14. l11 m10 15.
+l10 l9 16. k9 j8 17. j7 e12 18. g10 g8 19. l12 e10 20. h12 h14 21. h15 j13 22.
+j12 k13 23. l13 l14 24. e9 d8 25. g13 g12 26. f14 e15 27. m14 n15 28. n12 m12
+29. m11 o13 30. c8 d11 31. h7 c10 32. f13 b11 33. c11 f7 34. e6 d9 35. e8 d10
+36. d12 d7 0-1
+

@@ -1,0 +1,17 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.12.24"]
+[Round "-"]
+[Black "bomthoidai12"]
+[White "vunglamebay"]
+[Result "0-1"]
+[Time "04:12:54"]
+[TimeControl "180"]
+[GameType "61,15"]
+[BlackElo "1742"]
+[WhiteElo "1606"]
+
+1. k14 l12 2. m10 j13 3. i11 -- 4. black i10 5. j10 k9 6. l9 k10 7. k8 j7 8.
+k13 j12 9. n11 o12 10. i8 j8 11. i7 i6 12. j6 g9 13. m9 m11 14. m6 k12 15. i12
+h9 16. j11 i9 17. j9 g8 18. g6 f9 19. h7 e9 0-1
+

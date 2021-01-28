@@ -1,0 +1,20 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.12.10"]
+[Round "-"]
+[Black "bomthoidai12"]
+[White "gomobot"]
+[Result "0-1"]
+[Time "12:02:26"]
+[TimeControl "300"]
+[GameType "61,15"]
+[BlackElo "1742"]
+[WhiteElo "1677"]
+
+1. n2 m3 2. k5 black 3. k6 m6 4. j4 i4 5. i5 j7 6. h6 g7 7. i7 g5 8. g6 i6 9.
+k8 f6 10. h8 e7 11. h4 i8 12. j6 k7 13. f7 g9 14. e8 d9 15. d8 g10 16. h7 h5
+17. h9 h10 18. f8 g8 19. g11 c8 20. e10 e11 21. f10 e9 22. c9 e5 23. d5 e4 24.
+e3 g3 25. f4 m7 26. m5 k10 27. j10 k11 28. j11 m9 29. j12 j9 30. k9 h12 31. m8
+n8 32. l7 n9 33. l11 n10 34. n7 o9 35. l6 o11 36. l8 l10 37. o7 o10 38. m10 o12
+39. o13 o8 0-1
+

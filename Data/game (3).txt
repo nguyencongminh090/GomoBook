@@ -1,0 +1,16 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.11.19"]
+[Round "-"]
+[Black "cmb4926g"]
+[White "9kythanh"]
+[Result "1-0"]
+[Time "10:25:31"]
+[TimeControl "120"]
+[GameType "60,15"]
+[BlackElo "1200"]
+[WhiteElo "1720"]
+
+1. i8 j7 2. k7 j8 3. j6 i5 4. l9 k10 5. j10 i9 6. g9 i11 7. g11 g8 8. l6 i6 9.
+l8 l7 10. m9 n10 11. m7 k9 12. k6 m6 13. k5 k8 14. j4 j9 15. n8 1-0
+

@@ -1,0 +1,17 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.12.23"]
+[Round "-"]
+[Black "nothing2fear"]
+[White "conocnau"]
+[Result "0-1"]
+[Time "05:26:03"]
+[TimeControl "300"]
+[GameType "61,15"]
+[BlackElo "1563"]
+[WhiteElo "1607"]
+
+1. f2 h2 2. i2 white 3. -- f5 4. g5 h6 5. g6 g7 6. i5 h4 7. h5 i4 8. j4 e5 9.
+j5 k5 10. j3 j6 11. k4 l5 12. l3 m2 13. k3 m3 14. l4 j2 15. h3 i3 16. h8 e7 17.
+m4 n4 18. g3 f7 19. g4 g2 20. h7 i6 21. f8 d5 22. g8 e8 23. o7 e6 24. o6 e4 0-1
+

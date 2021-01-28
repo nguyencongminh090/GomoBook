@@ -1,0 +1,17 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.12.27"]
+[Round "-"]
+[Black "lzoli"]
+[White "vunglamebay"]
+[Result "1-0"]
+[Time "18:05:45"]
+[TimeControl "60"]
+[GameType "61,15"]
+[BlackElo "2559"]
+[WhiteElo "1606"]
+
+1. d10 g14 2. i10 black 3. f12 f11 4. g12 e12 5. g10 g11 6. h11 i12 7. e9 f8 8.
+i9 g8 9. h9 g9 10. h8 h10 11. e7 d11 12. e8 e10 13. f9 d7 14. f6 d9 15. d8 d12
+16. d13 e11 17. c11 f10 18. c13 c10 19. b10 1-0
+

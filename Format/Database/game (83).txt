@@ -1,0 +1,17 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2021.01.12"]
+[Round "-"]
+[Black "kkn530g"]
+[White "bomthoidai12"]
+[Result "1-0"]
+[Time "12:59:44"]
+[TimeControl "180"]
+[GameType "61,15"]
+[BlackElo "1668"]
+[WhiteElo "1742"]
+
+1. g2 g4 2. h2 black 3. i5 h5 4. h6 j4 5. i3 i4 6. j3 i2 7. j2 g5 8. g3 h3 9.
+j5 h4 10. h1 d5 11. l4 f6 12. l3 f2 13. e2 k3 14. l5 l6 15. m2 k4 16. l2 l1 17.
+k5 m5 18. n2 k2 19. m3 j6 20. o1 1-0
+

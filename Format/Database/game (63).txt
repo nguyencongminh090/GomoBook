@@ -1,0 +1,16 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.12.31"]
+[Round "-"]
+[Black "nguoikia"]
+[White "bomthoidai12"]
+[Result "1-0"]
+[Time "06:17:11"]
+[TimeControl "180"]
+[GameType "61,15"]
+[BlackElo "1858"]
+[WhiteElo "1742"]
+
+1. o8 o7 2. l3 white 3. -- i6 4. j4 h6 5. l6 i4 6. l5 l4 7. k5 i3 8. i5 j5 9.
+k6 k7 10. m4 n3 11. m6 n6 12. m7 n8 13. m5 m3 14. m8 1-0
+

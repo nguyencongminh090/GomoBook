@@ -1,0 +1,16 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.12.15"]
+[Round "-"]
+[Black "vunglamebay"]
+[White "byeall"]
+[Result "1-0"]
+[Time "14:52:17"]
+[TimeControl "420"]
+[GameType "61,15"]
+[BlackElo "1606"]
+[WhiteElo "1379"]
+
+1. o8 o7 2. l3 white 3. -- l7 4. k4 m6 5. j7 j5 6. k6 k8 7. j9 l5 8. l8 n5 9.
+o4 m5 10. k5 k7 11. m7 j8 12. l6 j4 13. h6 h8 14. m3 n3 15. j6 l4 16. i6 1-0
+

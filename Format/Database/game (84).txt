@@ -1,0 +1,17 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2021.01.15"]
+[Round "-"]
+[Black "cbt5983g"]
+[White "txt1111g"]
+[Result "0-1"]
+[Time "14:41:30"]
+[TimeControl "180"]
+[GameType "61,15"]
+[BlackElo "1406"]
+[WhiteElo "1200"]
+
+1. h8 h7 2. l9 black 3. g9 i6 4. j7 i7 5. i8 j9 6. i9 k6 7. l6 l7 8. m8 l10 9.
+k8 k9 10. j8 l8 11. l11 m9 12. n9 k7 13. j6 k11 14. j12 o7 15. n8 m7 16. n7 j10
+17. n6 i11 0-1
+

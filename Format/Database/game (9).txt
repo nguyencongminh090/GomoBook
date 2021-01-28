@@ -1,0 +1,18 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.11.30"]
+[Round "-"]
+[Black "loiyeukonoi"]
+[White "boneslash"]
+[Result "1-0"]
+[Time "15:25:24"]
+[TimeControl "2700"]
+[GameType "61,15"]
+[BlackElo "1348"]
+[WhiteElo "1969"]
+
+1. b12 e14 2. c12 b10 3. c13 -- 4. white -- 5. e11 e10 6. d11 f11 7. e12 e13 8.
+f13 c10 9. c11 h11 10. d9 d8 11. g10 g9 12. d12 h14 13. g12 h12 14. h10 i9 15.
+g7 i11 16. d10 d13 17. e9 f8 18. c9 h15 19. h13 g11 20. j11 b8 21. b9 f9 22. a9
+1-0
+

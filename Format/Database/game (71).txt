@@ -1,0 +1,16 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2021.01.03"]
+[Round "-"]
+[Black "kkn530g"]
+[White "sanders21"]
+[Result "1-0"]
+[Time "03:13:22"]
+[TimeControl "600"]
+[GameType "61,15"]
+[BlackElo "1566"]
+[WhiteElo "1570"]
+
+1. h8 d4 2. i13 white 3. -- f6 4. g9 f10 5. f9 e9 6. g11 e8 7. g10 g12 8. j8 g7
+9. i9 h10 10. i8 e5 11. c3 g8 12. h9 e6 13. j9 1-0
+

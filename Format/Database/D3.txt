@@ -1,0 +1,16 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.08.10"]
+[Round "-"]
+[Black "bomthoidai12"]
+[White "vy01"]
+[Result "1-0"]
+[Time "08:25:37"]
+[TimeControl "420"]
+[GameType "61,15"]
+[BlackElo "1739"]
+[WhiteElo "1588"]
+
+1. g2 i2 2. j2 white 3. -- j6 4. g5 g6 5. h6 h4 6. i5 j4 7. i7 j8 8. j5 h5 9.
+i4 k6 10. i6 i8 11. i3 1-0
+

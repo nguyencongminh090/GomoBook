@@ -1,0 +1,18 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2021.01.03"]
+[Round "-"]
+[Black "hugob"]
+[White "natricl"]
+[Result "0-1"]
+[Time "11:50:34"]
+[TimeControl "120"]
+[GameType "61,15"]
+[BlackElo "1416"]
+[WhiteElo "1568"]
+
+1. i8 h6 2. f5 black 3. g7 i5 4. g5 g6 5. h7 i7 6. i6 h8 7. g8 f9 8. j5 k4 9.
+j6 k6 10. j7 j4 11. k8 l9 12. h5 g4 13. h3 h4 14. i4 h11 15. g10 g11 16. f11
+h10 17. i9 h12 18. h9 j11 19. h13 i11 20. k11 k10 21. m8 j10 22. e12 d13 23. k9
+j9 24. j12 l11 25. m12 l10 26. l8 i10 0-1
+

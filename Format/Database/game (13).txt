@@ -1,0 +1,17 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.12.17"]
+[Round "-"]
+[Black "fwf9238g"]
+[White "tbt4204g"]
+[Result "0-1"]
+[Time "17:23:49"]
+[TimeControl "60"]
+[GameType "61,15"]
+[BlackElo "1569"]
+[WhiteElo "1200"]
+
+1. l9 l7 2. l5 i6 3. i7 -- 4. black j5 5. h6 j8 6. k6 j7 7. j9 h8 8. g8 h5 9.
+g4 k4 10. l3 j4 11. j6 k5 12. l4 l6 13. m7 i9 14. k7 i3 15. h2 f6 16. l1 l2 17.
+e5 g5 18. d8 i5 0-1
+

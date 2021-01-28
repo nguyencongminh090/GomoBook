@@ -1,0 +1,16 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2021.01.06"]
+[Round "-"]
+[Black "uey7931"]
+[White "ashot777"]
+[Result "1-0"]
+[Time "13:30:22"]
+[TimeControl "420"]
+[GameType "61,15"]
+[BlackElo "1446"]
+[WhiteElo "1839"]
+
+1. o8 o7 2. l3 white 3. -- i6 4. i5 g7 5. j6 h5 6. h4 k7 7. g4 i4 8. j3 i3 9.
+l4 j4 10. l5 l6 11. k5 m3 12. m5 j5 13. k4 i2 14. k2 k3 15. n5 l15 16. o5 1-0
+

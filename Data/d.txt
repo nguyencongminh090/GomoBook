@@ -1,0 +1,17 @@
+[Event "?"]
+[Site "PlayOK"]
+[Date "2020.10.03"]
+[Round "-"]
+[Black "swapgame"]
+[White "scm5887g"]
+[Result "1-0"]
+[Time "08:48:47"]
+[TimeControl "420"]
+[GameType "61,15"]
+[BlackElo "1200"]
+[WhiteElo "1239"]
+
+1. o8 o7 2. l3 black 3. k6 l7 4. m6 n6 5. l8 m7 6. i7 j7 7. j9 i8 8. g9 h8 9.
+g8 g7 10. j10 j11 11. h10 i11 12. g10 i10 13. i9 h9 14. g11 g12 15. j8 f12 16.
+k7 1-0
+
